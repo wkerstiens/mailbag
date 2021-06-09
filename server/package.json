@@ -1,0 +1,27 @@
+{
+  "name": "mailbag_server",
+  "version": "1.0.0",
+  "description": "The mailbag server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wkerstiens/mailbag.git"
+  },
+  "keywords": [
+    "mail",
+    "mailbag",
+    "bag"
+  ],
+  "author": "William Kerstiens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wkerstiens/mailbag/issues"
+  },
+  "homepage": "https://github.com/wkerstiens/mailbag#readme",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
+}
