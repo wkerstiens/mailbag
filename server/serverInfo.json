@@ -1,0 +1,18 @@
+{
+  "smtp": {
+    "host": "",
+    "port": 999,
+    "auth": {
+      "user": "",
+      "pass": ""
+    }
+  },
+  "imap": {
+    "host": "",
+    "port": 999,
+    "auth": {
+      "user": "",
+      "pass": ""
+    }
+  }
+}
